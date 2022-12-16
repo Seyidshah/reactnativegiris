@@ -17,7 +17,7 @@ export default function App() {
       alignItems: 'center',
     }}>
       <Text style={{
-        fontSize: 15,
+        fontSize: 14,
         justifyContent: 'flex-start',
         flex: 7,
         color: '#B4B4B4',
